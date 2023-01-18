@@ -22,8 +22,6 @@ This effort resulted in a metadata package that will better meet our One Health 
 **Any questions, suggestions or comments should be submitted to the issue page of this repository.**
 <br><br>
 
-<sup>**1**</sup>NCBI Resource Coordinators. Database resources of the National Center for Biotechnology Information. Nucleic Acids Res. 2015. 43(Database issue):D6-17. doi: 10.1093/nar/gku1130.
-
 <sup>**2**</sup>Yilmaz _et al_. Minimum information about a marker gene sequence (MIMARKS) and minimum information about any (x) sequence (MIxS) specifications. Nat Biotechnol. 2011. 29(5):415-20. doi: 10.1038/nbt.1823.
 <br><br>
 
